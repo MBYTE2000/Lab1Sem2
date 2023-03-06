@@ -19,7 +19,7 @@ int main()
 	
 	if (n%2 == 0)
 	{
-		y = pow(x, n / 2) * pow(x, n / 2);
+		y = pow(x, n / 2.) * pow(x, n / 2);
 	}
 	else
 	{
